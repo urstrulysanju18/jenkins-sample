@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v0")
+prin("Wassup Buddy!! v0")
